@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /econometry/
+title: "Econometry"
 ---
 
 - Presentation 1
