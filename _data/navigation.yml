@@ -5,15 +5,7 @@ main:
     url: /corporate finance/
   - title: "Portfolio Management"
     url: /portfolio management/
-  - title: "M&A"
-    url: /m&a/
-  - title: "Derivatives"
-    url: /derivatives/
   - title: "Fixed Income"
     url: /fixed income/
-  - title: "Stocahstic Calculus"
-    url: /stochastic calculus/
   - title: "Valuation"
     url: /valuation/
-  - title: "About"
-    url: /about/
