@@ -1,6 +1,6 @@
 ---
-permalink: /econometry/
-title: "Econometry"
+permalink: /econometrics/
+title: "Econometrics"
 ---
 
 - Analysis of cryptocurrency returns
