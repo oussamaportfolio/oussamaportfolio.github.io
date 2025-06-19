@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to my portfolio
 layout: splash
 permalink: /
 header:
@@ -14,7 +14,7 @@ header:
 # Oussama El Hadi  
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Investment Professional*
 
-Welcome to my portfolio. This site brings together a collection of academic and technical projects I’ve completed during my graduate studies in applied finance.
+This site brings together a collection of academic and technical projects I’ve completed during my graduate studies in applied finance.
 
 ---
 
@@ -22,9 +22,9 @@ Welcome to my portfolio. This site brings together a collection of academic and 
 
 I'm a finance professional passionate about investment research, asset management, and financial data analysis. Currently pursuing my Master’s in Finance and preparing for the CFA Level 2 exam, I’m building my skills at the intersection of markets and technology.
 
-- 💼 Internship: Investment Operations at Intact Investment Management  
-- 📈 Interests: Portfolio optimization, derivatives, quantitative models  
-- 🛠️ Tools: Python, MATLAB, Excel, Bloomberg, SQL  
+- Internship: Investment Operations at Intact Investment Management  
+- Interests: Portfolio optimization, derivatives, quantitative models  
+- Tools: Python, MATLAB, Excel, Bloomberg, SQL  
 
 ---
 
