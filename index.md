@@ -23,11 +23,15 @@ This site isn’t flashy. It’s not built to impress anyone. It’s just my way
 
 ---
 
-## Who am I ?
+## Who am I ? (My personal story)
 
-I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy — I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
+My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in exactly 8 days. You can call it luck, timing, intuition — maybe it was all of that. But for me, it was a spark.
 
-I’ve passed CFA Level 1 and I’m preparing for Level 2 this August. I’ve done a full internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
+📄 [View those 8 days statement here (PDF)](assets/files/trading_statement.pdf)
+
+Since then, I’ve kept trading in the background — mostly indices and commodities. But I knew I needed more than instinct. So I went back to school to learn more. I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
+
+I’ve passed CFA Level 1 and I’m preparing for Level 2 this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
   
 - Interests: Portfolio optimization, derivatives, quantitative models, corporate finance 
 - Tools: Office suite, Python, MATLAB, Excel
