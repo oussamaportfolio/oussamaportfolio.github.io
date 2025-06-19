@@ -15,7 +15,7 @@ header:
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professional*
 
 <p align="center">
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; width: 100%; height: auto;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto;">
 </p>
 
 <div style="text-align: justify;">
@@ -48,7 +48,8 @@ I’m a finance student in Montreal trying to break into the finance world. It�
 I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
 
-I’m learning everything I can:  
+I’m learning everything I can:
+
 - Portfolio theory, risk models, valuation  
 - Options, derivatives, macro strategies  
 - Python, MATLAB, SQL  
@@ -82,7 +83,8 @@ I’m looking for an internship this fall to complete my Master’s. But more th
 </div>
 
 <div style="text-align: justify;">
-If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
+  
+  If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 </div>
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
