@@ -29,12 +29,20 @@ My passion for finance isn’t theoretical — it started in the real world. In 
 
 📄 [View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
 
-Since then, I’ve kept trading in the background — mostly indices and commodities. But I knew I needed more than instinct. So I went back to school to learn more. I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
+Since then, I’ve kept trading in the background — mostly indices and commodities. But I knew I needed more than instinct. So I went back to school to learn more. 
 
-I’ve passed CFA Level I and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
+## What I’m Doing Now
+
+I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
+
+I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view) and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
   
-- Interests: Portfolio optimization, derivatives, quantitative models, corporate finance 
-- Tools: Office suite, Python, MATLAB, Excel
+I’m learning everything I can:  
+- Portfolio theory, risk models, valuation  
+- Options, derivatives, macro strategies  
+- Python, MATLAB, SQL  
+
+I’ve also realized that finance is much bigger than trading and I’m now exploring investment banking, corporate finance, and research. I don’t have one fixed path. I just want to learn, to grow, and to contribute.
 
 ---
 
@@ -47,8 +55,6 @@ Every project here reflects something I was curious about, struggled with, and l
 - Writing Python code that actually works after hours of debugging  
 
 …It all matters to me. And I hope it matters to someone reading this too.
-
-👉 [You can visit my Linkedin profile here](https://www.linkedin.com/in/oussama-e-75665b229/)
 
 ---
 
