@@ -11,13 +11,15 @@ header:
   caption: "oussama.elhadi@hotmail.com | 438-866-7022"
 ---
 
-# Oussama El Hadi  
-*Master's in Finance | CFA® II candidate | Aspiring Finance Professional*
-
-<div style="text-align: center; margin: 0; padding: 0;">
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="width: 200px; margin: 0; padding: 0;">
+<div style="text-align: center; margin-top: -40px;">
+  <h1 style="margin-bottom: 0;">Oussama El Hadi</h1>
+  <p style="font-style: italic; font-size: 1.1rem; margin-top: 0;">
+    Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professional
+  </p>
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; margin: 0 auto; display: block;">
 </div>
-<div style="height: 0px;"></div>
+
+<div style="height: 10px;"></div>
 
 <div style="text-align: justify;">
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
@@ -56,7 +58,7 @@ I’m learning everything I can:
 - Python, MATLAB, SQL  
 
 <div style="text-align: justify;">
-I’ve also realized that finance is much bigger than just markets and I’m now exploring investment banking, corporate finance. I don’t have one fixed path. I just want to learn, to grow, and to contribute.
+I’ve also realized that finance is much bigger than just markets and I’m now also exploring roles in corporate finance, investment banking, and beyond. I don’t have one fixed path. I’m open to any opportunity where I can keep learning, take on real responsibility, and grow alongside sharp, motivated people, whether it’s in research, strategy, asset management, or something I haven’t even considered yet
 </div>
 
 ---
