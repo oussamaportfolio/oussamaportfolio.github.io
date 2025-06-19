@@ -1,6 +1,6 @@
 ---
 title: Welcome to my portfolio
-layout: splash
+layout: single
 permalink: /
 header:
   overlay_color: "#000"
