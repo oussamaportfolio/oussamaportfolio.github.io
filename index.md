@@ -12,11 +12,11 @@ header:
 ---
 
 # Oussama El Hadi  
-*Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professional*
+*Master's in Finance | CFA® II candidate | Aspiring Finance Professional*
 
-<div style="display: flex; justify-content: center; margin-top: -10px; margin-bottom: -30px;">
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; border-radius: 50%;">
-</div>
+<p align="center" style="margin-bottom: 0;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; display: inline-block;">
+</p>
 
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
 
@@ -39,9 +39,9 @@ Since then, I’ve kept trading in the background — mostly indices and commodi
 ## What I’m Doing Now
 
 <div style="text-align: justify;">
-I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
+I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it. I've passed CFA Level I and I'm preparing for Level II
 </div>
-<br> I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August. <br>
+<br>[See CFA I credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) <br>
 <div style="text-align: justify;">
 I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
