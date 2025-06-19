@@ -18,8 +18,6 @@ header:
   <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; width: 100%; height: auto;">
 </p>
 
-<div style="text-align: justify;">
-
 
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
 
@@ -72,5 +70,3 @@ If you're a recruiter, a mentor, or just someone who wants to connect, reach out
 📄 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)  
 📞 438-866-7022  
 🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)
-
-</div>
