@@ -31,7 +31,7 @@ My passion for finance isn’t theoretical — it started in the real world. In 
 [View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
 <br>
 <div style="text-align: justify;">
-Since then, I’ve kept trading in the background — mostly indices and commodities. But I knew I needed more than instinct. So I went back to school to learn more.
+Since then, I’ve kept trading in the background — mostly indices and commodities. After my bachelor and a stunt as a financial advisor, I knew I needed more to make it. So I went back to school for my graduate to learn more.
 </div>
 
 ---
