@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
-  overlay_image: /assets/images/header-finance.jpg
+  overlay_image: /assets/images/Finance_header.png
   cta_label: "View My Projects"
   cta_url: "/portfolio/"
   caption: "oussama.elhadi@hotmail.com | 438-866-7022"
