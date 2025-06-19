@@ -15,7 +15,7 @@ header:
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professionnal*
 
 <p align="center">
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" width="180" style="border-radius: 50%;">
+  <img src="/assets/images/profile_pic.png" alt="Profile picture" width="180" style="border-radius: 50%;">
 </p>
 
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
