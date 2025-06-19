@@ -1,5 +1,3 @@
-I just want a version of the code I've sent you already justified please:
-
 ---
 title: Welcome to my portfolio
 layout: splash
