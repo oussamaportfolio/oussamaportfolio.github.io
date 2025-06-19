@@ -14,8 +14,8 @@ header:
 # Oussama El Hadi  
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professional*
 
-<p align="center">
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto;">
+<p align="center" style="margin-bottom: 0;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; display: inline-block;">
 </p>
 
 <div style="text-align: justify;">
@@ -30,6 +30,7 @@ Not your typical finance portfolio. I’m not here to impress with buzzwords or 
 My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in exactly 8 days. You can call it luck, timing, intuition — maybe it was all of that. But for me, it was a spark.
 </div>
 
+  
 [View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
 
 <div style="text-align: justify;">
@@ -45,9 +46,10 @@ I’m a finance student in Montreal trying to break into the finance world. It�
 </div>
 
 <div style="text-align: justify;">
-I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
+I’ve passed CFA Level I [(See Scores)](#) and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
 
+  
 I’m learning everything I can:
 
 - Portfolio theory, risk models, valuation  
@@ -78,16 +80,4 @@ Every project here reflects something I was curious about, struggled with, and l
 
 ## Let’s Talk
 
-<div style="text-align: justify;">
-I’m looking for an internship this fall to complete my Master’s. But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
-</div>
-
-<div style="text-align: justify;">
-  
-  If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
-</div>
-
-📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)  
-📞 438-866-7022  
-🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)
+<div style="t
