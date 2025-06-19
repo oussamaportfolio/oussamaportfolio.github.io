@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /Porfolio Management/
+title: "Porfolio Management"
 ---
 
 Hi, I’m currently doing my master’s in finance, and what really drives me is understanding how markets work — the stories behind the numbers. I’ve always been curious about investing and trading, and over time, that curiosity turned into something deeper: a real passion for finance.
