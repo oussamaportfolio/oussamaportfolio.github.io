@@ -17,9 +17,8 @@ header:
 <p align="center" style="margin-bottom: 0;">
   <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; display: inline-block;">
 </p>
-<div style="text-align: justify;">
+
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
-</div>
 
 ---
 
