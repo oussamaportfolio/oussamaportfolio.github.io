@@ -15,7 +15,7 @@ header:
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professionnal*
 
 <p align="center">
-  <img src="/assets/images/IMG_1419.PNG" alt="Profile picture" style="max-width: 200px; width: 100%; height: auto;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; width: 100%; height: auto;">
 </p>
 
 <div style="text-align: justify;">
