@@ -12,42 +12,51 @@ header:
 ---
 
 # Oussama El Hadi  
-*Master's in Finance | CFA Level 2 Candidate | Aspiring Investment Professional*
+*Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professionnal*
 
 <p align="center">
   <img src="/assets/images/IMG_1419.png" alt="Profile picture" width="180" style="border-radius: 50%;">
 </p>
-This site brings together a collection of academic and technical projects I’ve completed during my graduate studies in applied finance.
+
+This site isn’t flashy. It’s not built to impress anyone. It’s just my way of saying: “Here’s what I’ve worked on. Here’s what I care about. And here’s where I’m trying to go.”
+
 
 ---
 
-## About Me
+## Who am I ?
 
-I'm a finance professional passionate about investment research, asset management, and financial data analysis. Currently pursuing my Master’s in Finance and preparing for the CFA Level 2 exam, I’m building my skills at the intersection of markets and technology.
+I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy — I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
 
-- Internship: Investment Operations at Intact Investment Management  
-- Interests: Portfolio optimization, derivatives, quantitative models  
-- Tools: Python, MATLAB, Excel, Bloomberg, SQL  
+I’ve passed CFA Level 1 and I’m preparing for Level 2 this August. I’ve done a full internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
+  
+- Interests: Portfolio optimization, derivatives, quantitative models, corporate finance 
+- Tools: Office suite, Python, MATLAB, Excel
 
 ---
 
-## What You'll Find Here
+## Why this site exists
 
-This website is a curated portfolio of technical work and academic projects, designed to demonstrate:
+Every project here reflects something I was curious about, struggled with, and learned from. Whether it’s:
 
-- Proficiency in **data analysis** and **financial modeling**
-- Application of **portfolio theory** and **derivatives pricing**
-- Use of **Python/MATLAB** for real-world financial problems
-- Insights into macroeconomics, investment strategy, and risk
+- Modeling a portfolio’s risk exposures  
+- Running simulations for option pricing  
+- Writing Python code that actually works after hours of debugging  
 
-Each project includes a brief context, methodology, and key takeaways.  
+…It all matters to me. And I hope it matters to someone reading this too.
 
 👉 [You can visit my Linkedin profile here](https://www.linkedin.com/in/oussama-e-75665b229/)
 
 ---
 
-## Let’s Connect
+## Let’s Talk
 
-If you're a recruiter, investment manager, or just someone who wants to connect, feel free to [reach out](https://www.linkedin.com/in/oussamaelhadi/). I’m always open to discussing finance or collaboration/networking opportunities.
+I’m looking for an internship this fall to complete my Master’s. But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
+
+If you're a recruiter, a mentor, or just someone who wants to connect, reach out !
+
+
+📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
+📞 438-866-7022  
+🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)
 
 
