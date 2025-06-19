@@ -31,8 +31,7 @@ My passion for finance isn’t theoretical — it started in the real world. In 
 </div>
 
 <br>
-
-<a href="https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view">View those 8 days statement here (PDF)</a>
+[View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
 
 <div style="text-align: justify;">
 <br>
@@ -49,7 +48,7 @@ I’m a finance student in Montreal trying to break into the finance world. It�
 
 <br>
 
-<a href="https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing">See CFA Level I scores (PDF)</a>
+I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August.
 
 <div style="text-align: justify;">
 <br>
@@ -104,3 +103,4 @@ If you're a recruiter, a mentor, or just someone who wants to connect, reach out
 📄 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)  
 📞 438-866-7022  
 🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)
+
