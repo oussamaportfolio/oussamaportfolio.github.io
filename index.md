@@ -17,7 +17,6 @@ header:
 <p align="center" style="margin-bottom: 0;">
   <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; display: inline-block;">
 </p>
-
 <div style="text-align: justify;">
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
 </div>
@@ -31,9 +30,7 @@ My passion for finance isn’t theoretical — it started in the real world. In 
 </div>
 
 <br>
-[View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
-
-<div style="text-align: justify;">
+[View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)<div style="text-align: justify;">
 <br>
 Since then, I’ve kept trading in the background — mostly indices and commodities. But I knew I needed more than instinct. So I went back to school to learn more.
 </div>
@@ -46,17 +43,11 @@ Since then, I’ve kept trading in the background — mostly indices and commodi
 I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
 </div>
 
-<br>
-
-I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August.
-
-<div style="text-align: justify;">
+<br> I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August. <div style="text-align: justify;">
 <br>
 I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
-
 <br>
-
 I’m learning everything I can:
 
 - Portfolio theory, risk models, valuation  
@@ -90,15 +81,11 @@ Every project here reflects something I was curious about, struggled with, and l
 <div style="text-align: justify;">
 I’m looking for an internship this fall to complete my Master’s. But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
 </div>
-
 <br>
-
 <div style="text-align: justify;">
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 </div>
-
 <br>
-
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
 📄 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)  
 📞 438-866-7022  
