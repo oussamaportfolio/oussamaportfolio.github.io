@@ -15,7 +15,7 @@ header:
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Investment Professional*
 
 <p align="center">
-  <img src="/assets/images/profile.jpg" alt="Profile picture" width="180" style="border-radius: 50%;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" width="180" style="border-radius: 50%;">
 </p>
 
 This site brings together a collection of academic and technical projects I’ve completed during my graduate studies in applied finance.
