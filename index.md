@@ -15,8 +15,9 @@ header:
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professionnal*
 
 <p align="center">
-  <img src="/assets/images/profile_pic.png" alt="Profile picture" width="180" style="border-radius: 50%;">
+  <img src="/assets/images/IMG_1419.PNG" alt="Profile picture" style="max-width: 200px; width: 100%; height: auto;">
 </p>
+
 
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
 
@@ -63,10 +64,9 @@ Every project here reflects something I was curious about, struggled with, and l
 
 I’m looking for an internship this fall to complete my Master’s. But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
 
-If you're a recruiter, a mentor, or just someone who wants to connect, reach out !
+If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
-
-📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)
-📩 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)    
+📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
+📄 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)  
 📞 438-866-7022  
 🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)
