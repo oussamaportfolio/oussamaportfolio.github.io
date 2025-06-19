@@ -62,18 +62,18 @@ author:
   avatar : "/assets/images/profile_pic.png"
   bio    : "Applied Finance M.Sc. & CFA® II candidate"
   links:
-    - label: "Website"
+    - label: "Email me"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      url: "mailto:oussama.elhadi@hotmail.com"
+    - label: "My CV"
+      icon: "fas fa-fw fa-link"
+      url: "https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-link"
       url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/oussama-e-75665b229/"
 
 defaults:
   # _posts
