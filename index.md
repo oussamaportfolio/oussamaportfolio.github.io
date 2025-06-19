@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/header-finance.jpg
   cta_label: "View My Projects"
   cta_url: "/portfolio/"
-  caption: "Finance | Programming | Data | Investment Management"
+  caption: "oussama.elhadi@hotmail.com | 438-866-7022"
 ---
 
 # Oussama El Hadi  
@@ -18,7 +18,7 @@ Welcome to my portfolio. This site brings together a collection of academic and 
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a finance professional passionate about investment research, asset management, and financial data analysis. Currently pursuing my Master’s in Finance and preparing for the CFA Level 2 exam, I’m building my skills at the intersection of markets and technology.
 
@@ -28,7 +28,7 @@ I'm a finance professional passionate about investment research, asset managemen
 
 ---
 
-## 💡 What You'll Find Here
+## What You'll Find Here
 
 This website is a curated portfolio of technical work and academic projects, designed to demonstrate:
 
@@ -39,12 +39,12 @@ This website is a curated portfolio of technical work and academic projects, des
 
 Each project includes a brief context, methodology, and key takeaways.  
 
-👉 [Browse my full portfolio here](https://drive.google.com/drive/folders/1HCtickkMsJ_AIdXlPXYvgQaj9-ZL2SbD?usp=drive_link)
+👉 [You can visit my Linkedin profile here](https://www.linkedin.com/in/oussama-e-75665b229/)
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
-If you're a recruiter, investment manager, or just curious about my work—feel free to [reach out](https://www.linkedin.com/in/oussamaelhadi/). I’m always open to discussing finance, data, or collaboration opportunities.
+If you're a recruiter, investment manager, or just someone who wants to connect, feel free to [reach out](https://www.linkedin.com/in/oussamaelhadi/). I’m always open to discussing finance or collaboration/networking opportunities.
 
 
