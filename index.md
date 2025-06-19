@@ -39,9 +39,9 @@ Since then, I’ve kept trading in the background — mostly indices and commodi
 ## What I’m Doing Now
 
 <div style="text-align: justify;">
-I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it. I've passed CFA Level I and I'm preparing for Level II
+I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it. I've passed CFA Level I and I'm preparing for Level II.
 </div>
-<br>[See CFA I credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) <br>
+<br>See [CFA credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) <br>
 <div style="text-align: justify;">
 I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
