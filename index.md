@@ -46,7 +46,7 @@ I’m a finance student in Montreal trying to break into the finance world. It�
 </div>
 <br>See [CFA credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) <br>
 <div style="text-align: justify;">
-I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
+I’ve done an internship at an investment management firm, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
 <br>
 I’m learning everything I can:
@@ -56,7 +56,7 @@ I’m learning everything I can:
 - Python, MATLAB, SQL  
 
 <div style="text-align: justify;">
-I’ve also realized that finance is much bigger than trading and I’m now exploring investment banking, corporate finance, and research. I don’t have one fixed path. I just want to learn, to grow, and to contribute.
+I’ve also realized that finance is much bigger than just markets and I’m now exploring investment banking, corporate finance. I don’t have one fixed path. I just want to learn, to grow, and to contribute.
 </div>
 
 ---
