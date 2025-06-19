@@ -14,9 +14,9 @@ header:
 # Oussama El Hadi  
 *Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professional*
 
-<p align="center" style="margin-bottom: 0;">
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; display: inline-block;">
-</p>
+<div style="display: flex; justify-content: center; margin-top: -10px; margin-bottom: -30px;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; height: auto; border-radius: 50%;">
+</div>
 
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
 
