@@ -28,7 +28,7 @@ Not your typical finance portfolio. I’m not here to impress with buzzwords or 
 
 My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in exactly 8 days. You can call it luck, timing, intuition — maybe it was all of that. But for me, it was a spark.
 
-📄 [View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
+[View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
 
 Since then, I’ve kept trading in the background — mostly indices and commodities. But I knew I needed more than instinct. So I went back to school to learn more. 
 
@@ -36,7 +36,7 @@ Since then, I’ve kept trading in the background — mostly indices and commodi
 
 I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it.
 
-I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view) and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
+I’ve passed CFA Level I [(See Scores)](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) and I’m preparing for Level II this August. I’ve done an internship at Intact Investment Management, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm alwys willing to learn.
   
 I’m learning everything I can:  
 - Portfolio theory, risk models, valuation  
@@ -66,6 +66,7 @@ I’m looking for an internship this fall to complete my Master’s. But more th
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out !
 
 
-📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
+📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)
+📩 [My CV](https://drive.google.com/file/d/1R8wJdGz3bJCR4uUu2kNQbCQ-fnA8zT9O/view?usp=sharing)    
 📞 438-866-7022  
 🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)
