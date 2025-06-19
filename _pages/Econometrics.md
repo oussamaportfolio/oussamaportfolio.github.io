@@ -5,8 +5,7 @@ title: "Econometrics"
 
 - Analysis of cryptocurrency returns
   
-<iframe src="https://drive.google.com/file/d/1SBBfRjxtn53CBl1ahbs3I9fnq713jAvZ/preview" width="640" height="480" allow="autoplay"></iframe>
-
+<iframe src="https://drive.google.com/file/d/11jlfMQnVzUomAjueXRYYrr17PR0khLKi/preview" width="640" height="480" allow="autoplay"></iframe>
 
 - Exposure to risk factors
 
