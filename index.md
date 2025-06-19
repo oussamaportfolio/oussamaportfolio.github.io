@@ -11,15 +11,13 @@ header:
   caption: "oussama.elhadi@hotmail.com | 438-866-7022"
 ---
 
-<div style="text-align: center; margin-top: -40px;">
+<div style="text-align: center; margin-top: -40px; margin-bottom: 10px;">
   <h1 style="margin-bottom: 0;">Oussama El Hadi</h1>
   <p style="font-style: italic; font-size: 1.1rem; margin-top: 0;">
     Master's in Finance | CFA Level 2 Candidate | Aspiring Finance Professional
   </p>
-  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; margin: 0 auto; display: block;">
+  <img src="/assets/images/IMG_1419.png" alt="Profile picture" style="max-width: 200px; display: block; margin: 10px auto;">
 </div>
-
-<div style="height: 10px;"></div>
 
 <div style="text-align: justify;">
 Not your typical finance portfolio. I’m not here to impress with buzzwords or perfect credentials. I’m here because I care deeply about this field, and I’m doing everything I can to build a future in it, one step at a time.
