@@ -1,5 +1,5 @@
 ---
-permalink: /porfolio management/
+permalink: /portfolio management/
 title: "Porfolio Management"
 ---
 
