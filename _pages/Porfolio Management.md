@@ -12,6 +12,7 @@ title: "Porfolio Management"
 This report contrasts two portfolios built using radically different approaches:  
 - **Portfolio A** was created randomly based on letters from the author’s first name, with equal weights.  
 - **Portfolio B** was constructed using fundamental screening and designed to mirror the sectoral composition of the S&P 500.  
+
 The analysis includes the **Markowitz efficient frontier**, **Value-at-Risk (VaR)** estimates, and key performance ratios.  
 All modeling was done in **Excel** and supplemented by tools like **Portfolio Visualizer** to simulate real-market behavior.
 
@@ -31,7 +32,9 @@ All modeling was done in **Excel** and supplemented by tools like **Portfolio Vi
 **Overview**
 
 This report provides a structured overview of Bitcoin, starting with the 2008 white paper by Satoshi Nakamoto.  
+
 It explains the **underlying blockchain architecture**, **Proof-of-Work protocol**, **mining incentives**, and the controlled monetary supply via the **halving mechanism**.  
+
 The analysis blends technical insight with monetary theory, drawing on academic research and real-world economic observations.
 
 **Key Findings**
@@ -49,8 +52,10 @@ The analysis blends technical insight with monetary theory, drawing on academic 
 <br>
 **Overview**
 
-This report explores how blockchain technology can transform the insurance industry.  
+This report explores how blockchain technology can transform the insurance industry.
+
 It introduces the **technical foundations of blockchain**, then dives into real applications such as **smart contracts**, **automated claims processing**, and **secure data sharing** between insurers.  
+
 The study draws from industry reports (e.g., AXA, Lemonade) and academic research to assess operational benefits and future prospects.
 
 **Key Findings**
