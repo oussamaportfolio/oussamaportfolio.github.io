@@ -9,7 +9,8 @@ title: "Econometrics"
 <br>
 **Overview**
 
-This report investigates whether cryptocurrencies can serve as viable investment assets by analyzing the performance of five cryptos (Bitcoin, Digibyte, Litecoin, Maidsafecoin, and NXT) from 2016 to 2019, compared to the S&P 500.  
+This report investigates whether cryptocurrencies can serve as viable investment assets by analyzing the performance of five cryptos (Bitcoin, Digibyte, Litecoin, Maidsafecoin, and NXT) from 2016 to 2019, compared to the S&P 500.
+
 All computations and visualizations were done in **MATLAB**, including return calculations, performance ratios, and portfolio comparisons. The study also incorporates volatility measures and correlation with market fear (VIX) to assess diversification potential.
 
 **Key Findings**
@@ -27,7 +28,8 @@ All computations and visualizations were done in **MATLAB**, including return ca
 <br>
 **Overview**
 
-This project applies the five-factor Fama-French model to 48 U.S. industry portfolios over a 25-year period.  
+This project applies the five-factor Fama-French model to 48 U.S. industry portfolios over a 25-year period.
+
 The analysis was conducted entirely in **Python**, using two-pass regressions to estimate beta exposures and compute risk premia both statically and over rolling windows. Visualizations were created to track the evolution of factor sensitivity through time.
 
 **Key Findings**
@@ -45,7 +47,8 @@ The analysis was conducted entirely in **Python**, using two-pass regressions to
 <br>
 **Overview**
 
-This report evaluates several portfolio construction strategies applied to ten low-correlation U.S. industry portfolios.  
+This report evaluates several portfolio construction strategies applied to ten low-correlation U.S. industry portfolios.
+
 Using **Python**, we implemented and compared equal-weighted, minimum variance, maximum Sharpe, and mean-variance portfolios — both in long-only and long-short formats. The strategies were tested dynamically using historical and factor-based covariance matrices, with performance assessed using rolling windows and out-of-sample returns.
 
 **Key Findings**
