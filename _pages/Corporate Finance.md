@@ -10,6 +10,7 @@ permalink: /corporate finance/
 **Overview**
 
 This report assesses the feasibility of Dollarama acquiring Five Below as a strategy to expand beyond the saturated Canadian retail market.  
+
 We conducted a detailed analysis including **DCF valuation**, **comparable company analysis**, **Porter’s Five Forces**, and legal structuring considerations such as a **Reverse Triangular Merger**. The study combines financial modeling, industry research, and regulatory analysis to assess the potential value creation for shareholders.
 
 **Key Findings**
@@ -29,6 +30,7 @@ We conducted a detailed analysis including **DCF valuation**, **comparable compa
 **Overview**
 
 This report compares the capital structure of six companies from different sectors by analyzing their debt ratios, cost of capital (WACC), and volatility.  
+
 The study integrates theoretical frameworks such as **Modigliani & Miller**, **trade-off theory**, and **pecking order theory**.  
 All data collection, financial analysis, and modeling were conducted using **Excel**, including simplified DCF valuations, beta estimation, and capital cost breakdowns.
 
@@ -47,7 +49,8 @@ All data collection, financial analysis, and modeling were conducted using **Exc
 <br>
 **Overview**
 
-This report analyzes Imperial Oil’s shareholder distribution policy by examining historical dividend payments, share repurchase activity, and free cash flow generation.  
+This report analyzes Imperial Oil’s shareholder distribution policy by examining historical dividend payments, share repurchase activity, and free cash flow generation. 
+
 Using **financial statement analysis** and **FCFE-based payout ratios**, the report evaluates the sustainability and strategic rationale of Imperial’s capital return practices.  
 The work is grounded in financial theory, including **signaling theory** and **Miller & Modigliani’s dividend irrelevance framework**.
 
