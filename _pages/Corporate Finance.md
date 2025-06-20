@@ -51,8 +51,7 @@ All data collection, financial analysis, and modeling were conducted using **Exc
 
 This report analyzes Imperial Oil’s shareholder distribution policy by examining historical dividend payments, share repurchase activity, and free cash flow generation. 
 
-Using **financial statement analysis** and **FCFE-based payout ratios**, the report evaluates the sustainability and strategic rationale of Imperial’s capital return practices.  
-The work is grounded in financial theory, including **signaling theory** and **Miller & Modigliani’s dividend irrelevance framework**.
+Using **financial statement analysis** and **FCFE-based payout ratios**, the report evaluates the sustainability and strategic rationale of Imperial’s capital return practices. The work is grounded in financial theory, including **signaling theory** and **Miller & Modigliani’s dividend irrelevance framework**.
 
 **Key Findings**
 
