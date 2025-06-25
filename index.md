@@ -24,7 +24,7 @@ Not your typical finance portfolio. I’m not here to impress with buzzwords or 
 ## Who am I ? (My personal story)
 
 <div style="text-align: justify;">
-My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in exactly 8 days. You can call it luck, timing, intuition — maybe it was all of that. But for me, it was a spark.
+My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in exactly 8 days. Was it timing, luck ? Most likely. But for me, it was a spark.
 </div>
 <br>
 [View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
