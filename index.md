@@ -82,8 +82,8 @@ I’m looking for an internship this fall to complete my Master’s (Fall 2025 g
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1NkBTxrKZCRVSE_oFOEoINw3iW8_Nhj-v/view?usp=sharing)  
-🔗 [LinkedIn](https://www.linkedin.com/in/oussama-e-75665b229/)  
+📄 [My CV](https://drive.google.com/file/d/1yNS7iB8SLNMqz4wsPwRtgXse4Hfdg8s_/view?usp=drive_link)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
 
 
