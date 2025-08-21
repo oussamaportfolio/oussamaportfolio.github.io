@@ -5,7 +5,7 @@ title: "Porfolio Management"
 
 ## ⬛ Portfolio Construction – Random vs. Strategic Allocation  
   
-<iframe src="https://drive.google.com/file/d/1AF4kO4VIVOuAjJbPkXHVeScsQtTAE_7z/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1VTdlvYwzt2gKXMrMZu_itOZFDYaFLVVJ/preview" width="640" height="480" allow="autoplay"></iframe>
 <br>
 **Overview**
 
