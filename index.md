@@ -11,6 +11,8 @@ header:
   caption: "oussama.elhadi@hotmail.com | 438-866-7022"
 ---
 
+<p style="font-size: 0.9em; text-align: right;"><a href="/en/">For english, click here</a></p>
+
 # Oussama El Hadi  
 *Master's in Finance | CFA® II candidate | Aspiring Finance Professional*
 
