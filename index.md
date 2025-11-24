@@ -11,7 +11,7 @@ header:
   caption: "oussama.elhadi@hotmail.com | 438-866-7022"
 ---
 
-<p style="font-size: 0.9em; text-align: right;"><a href="/en/">For English, click here</a></p>
+<p style="font-size: 0.9em; text-align: right;"><a href="https://portefeuilleoussama.github.io/">Pour le français, cliquez ici</a></p>
 
 # Oussama El Hadi  
 *Master's in Finance | CFA® II candidate | Aspiring Finance Professional*
@@ -84,7 +84,7 @@ I’m looking for internships and/or junior levels opportunities . But more than
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1j34GAavcUjDBP5VTCNWoy_1Wxun8stDx/view?usp=sharing)  
+📄 [My CV](https://drive.google.com/file/d/1TfJnT5_UcKuD1KGKSvgViuQaZq71GR9y/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
 
