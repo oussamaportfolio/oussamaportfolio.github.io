@@ -42,14 +42,14 @@ I’m a finance student in Montreal trying to break into the finance world. It�
 </div>
 <br>See [CFA credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) <br>
 <div style="text-align: justify;">
-I’ve done an internship at an investment management firm, where I worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
+I’ve done two internships at two different investment management firms, where I mainly worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
 <br>
 I’m learning everything I can:
 
 - Portfolio theory, risk models, valuation  
 - Options, derivatives, macro strategies  
-- Python, MATLAB, SQL  
+- Python, MATLAB
 
 <div style="text-align: justify;">
 I’ve also realized that finance is much bigger than just markets and I’m now also exploring roles in corporate finance, investment banking, and beyond. I don’t have one fixed path. I’m open to any opportunity where I can keep learning, take on real responsibility, and grow alongside sharp, motivated people, whether it’s in research, strategy, asset management, or something I haven’t even considered yet
@@ -76,13 +76,13 @@ Every project here reflects something I was curious about, struggled with, and l
 ## Let’s Talk
 
 <div style="text-align: justify;">
-I’m looking for an internship this fall to complete my Master’s (Fall 2025 graduate). But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
+I’m looking for internships and/or junior levels opportunities . But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
 </div>
 <br>
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1yNS7iB8SLNMqz4wsPwRtgXse4Hfdg8s_/view?usp=drive_link)  
+📄 [My CV](https://drive.google.com/file/d/1TfJnT5_UcKuD1KGKSvgViuQaZq71GR9y/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
 
