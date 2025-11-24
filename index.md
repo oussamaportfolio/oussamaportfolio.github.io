@@ -14,7 +14,7 @@ header:
 <p style="font-size: 1.5em; text-align: right;"><a href="https://portefeuilleoussama.github.io/">FRANÇAIS</a></p>
 
 # Oussama El Hadi  
-*Master's in Finance | CFA® II candidate | Aspiring Finance Professional*
+*Master's in Finance | CFA® II candidate *
 
 <img src="/assets/images/profile_pic.png" alt="Profile picture" style="max-width: 200px; height: auto; display: block; margin: 2;">
 <div style="text-align: justify;">
