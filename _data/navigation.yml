@@ -1,9 +1,9 @@
 main:
   - title: "Econometrics"
     url: /econometrics/
-  - title: "Corporate Finance"
+  - title: "Corporate Fin"
     url: /corporate finance/
-  - title: "Portfolio Management"
+  - title: "PM"
     url: /portfolio management/
   - title: "Fixed Income"
     url: /fixed income/
