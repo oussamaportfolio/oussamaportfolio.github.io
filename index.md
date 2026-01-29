@@ -42,7 +42,7 @@ Since then, I’ve kept trading in the background — mostly indices and commodi
 <div style="text-align: justify;">
 I’m a finance student in Montreal trying to break into the finance world. It’s competitive. It’s overwhelming. But I’m not here because it’s easy. I’m here because I believe I can add value, and I’m willing to put in the work to prove it. I've passed CFA Level I and I'm preparing for Level II.
 </div>
-<br>See [CFA credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1bPkyZEJnayXnovZHbgEy9aikAhfsgdnb/view?usp=sharing) <br>
+<br>See [CFA credentials](https://credentials.cfainstitute.org/bac09a70-35c6-4d87-aa36-e27cf18d39cb#acc.5faA8k47) and [Exam scores](https://drive.google.com/file/d/1kF1zjifCWS4xEkIPQwWjd2xT3tD48cgx/view?usp=sharing) <br>
 <div style="text-align: justify;">
 I’ve done two internships at two different investment management firms, where I mainly worked on portfolio operations and data analysis. I’ve built models during my graduate. I’ve dug through real investment problems. And I’ve made mistakes — but I'm always willing to learn.
 </div>
@@ -84,7 +84,7 @@ I’m looking for internships and/or junior levels opportunities . But more than
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1TfJnT5_UcKuD1KGKSvgViuQaZq71GR9y/view?usp=sharing)  
+📄 [My CV](https://drive.google.com/file/d/1C2tHHbCk6n9VQ8qgBcwjjXpfYM3y9X0f/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
 
