@@ -78,7 +78,7 @@ Every project here reflects something I was curious about, struggled with, and l
 ## Let’s Talk
 
 <div style="text-align: justify;">
-I’m looking for internships and/or junior levels opportunities . But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
+As a new graduate, I’m looking for internships and/or junior levels opportunities . But more than that, I’m looking for a shot — a place to keep learning, to contribute, and to be part of something real.
 </div>
 <br>
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
