@@ -84,7 +84,7 @@ As a new graduate, I’m looking for internships and/or junior levels opportunit
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1orwwgs-PjXlSdiZ5tz9dbOYbykqqL28S/view?usp=drive_link)  
+📄 [My CV](https://drive.google.com/file/d/1DUIY6QnKP7d75GiHmbSYeQWo909mE2hq/view?usp=drive_link)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
 
