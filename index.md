@@ -26,13 +26,13 @@ Not your typical finance portfolio. I’m not here to impress with buzzwords or 
 ## Who am I ? (My personal story)
 
 <div style="text-align: justify;">
-My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in exactly 8 days. Was it timing, luck ? Most likely. But for me, it was a spark.
+My passion for finance isn’t theoretical — it started in the real world. In March 2020, while markets were collapsing, I turned a $2,500 trading account into over $8,000 in roughly 8 days. Was it timing, luck ? Most likely. But for me, it was a spark.
 </div>
 <br>
 [View those 8 days statement here (PDF)](https://drive.google.com/file/d/1RkJtQcP05YW_PlSHcLak1HtyUZzhCkDx/view)
 <br>
 <div style="text-align: justify;">
-Since then, I’ve kept trading in the background — mostly indices and commodities. After my bachelor and a stunt as a financial advisor, I knew I needed more to make it. So I went back to school for my graduate to learn more.
+Since then, I’ve kept trading in the background — mostly indices and commodities. After my bachelor and a stunt as a financial advisor, I wanted to learn more about finance. So I went back to school for my graduate degree.
 </div>
 
 ---
@@ -84,7 +84,7 @@ As a new graduate, I’m looking for internships and/or junior levels opportunit
 If you're a recruiter, a mentor, or just someone who wants to connect, reach out!
 
 📩 [oussama.elhadi@hotmail.com](mailto:oussama.elhadi@hotmail.com)  
-📄 [My CV](https://drive.google.com/file/d/1C2tHHbCk6n9VQ8qgBcwjjXpfYM3y9X0f/view?usp=sharing)  
+📄 [My CV](https://drive.google.com/file/d/1orwwgs-PjXlSdiZ5tz9dbOYbykqqL28S/view?usp=drive_link)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ousselhadi/)  
 📞 438-866-7022
 
